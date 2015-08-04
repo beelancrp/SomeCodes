@@ -102,3 +102,4 @@ int calcObjectsNumber (const char *str ){
 			
 	return count;
 }
+//{"sotana":"demon","god":"angel"}
